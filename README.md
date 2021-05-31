@@ -7,7 +7,7 @@ This is a set of crappy backends to practice API calls in the ```Reactjs``` cour
 - Clone the repository
 - Go into the desired backend folder
 - Install all the dependencies ```npm install```
-- Run the server ```npm run-server```
+- Run the server ```npm start```
 
 ## Usage
 

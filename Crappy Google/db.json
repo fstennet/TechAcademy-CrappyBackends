@@ -1,0 +1,155 @@
+{
+    "search": 
+    [
+        {
+            "id": "react",
+            "performance": "0.82 seconds",
+            "resultCount": 2,
+            "commonQuestions":[
+                {
+                    "body": "What is react used for?"
+                },
+                {
+                    "body": "How do you define react?"
+                },
+                {
+                    "body": "Is react a programming language?"
+                },
+                {
+                    "body": "Is react JS frontend or backend?"
+                }
+            ],
+            "results": [
+                {
+                    "url": "https://reactjs.org",
+                    "type": "Main",
+                    "title": "React – A JavaScript library for building user interfaces",
+                    "body": "React · Declarative. React makes it painless to create interactive UIs. · Component-Based. Build encapsulated components that manage their own state, then ...",
+                    "visitCount": "You've visited this page many times. Last visit: 5/31/21",
+                    "subResults":[
+                        {
+                            "title":"Getting Started",
+                            "body": "React DocsTutorialBlogCommunity ...",
+                            "url": "https://reactjs.org/docs/getting-started.html"
+                        },
+                        {
+                            "title":"Hello World",
+                            "body": "Hello World. The smallest React example looks like this ...",
+                            "url": "https://reactjs.org/docs/hello-world.html"
+                        },
+                        {
+                            "title":"Tutorial: Intro to React",
+                            "body": "What Is React? React is a declarative, efficient, and ...",
+                            "url": "https://reactjs.org/tutorial/tutorial.html"
+                        },
+                        {
+                            "title":"Create a New React App",
+                            "body": "If you're learning React or creating a new single-page app, use ...",
+                            "url": "https://reactjs.org/docs/create-a-new-react-app.html"
+                        },
+                        {
+                            "title":"Introducing Hooks",
+                            "body": "Introducing Hooks. Hooks are a new addition in React 16.8 ...",
+                            "url": "https://reactjs.org/docs/hooks-intro.html"
+                        },
+                        {
+                            "title":"Introducing JSX",
+                            "body": "Introducing JSX. Consider this variable declaration: const ...",
+                            "url": "https://reactjs.org/docs/introducing-jsx.html"
+                        }            
+                    ]                    
+                },  
+                {
+                    "url": "https://en.wikipedia.org/wiki/React_(JavaScript_library)",
+                    "type": "Secondary",
+                    "title": "React (JavaScript library) - Wikipedia",
+                    "body": "React is an open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual ...",
+                    "visitCount": "You've visited this page many times. Last visit: 5/31/21"
+                },
+                {
+                    "url": "https://en.wikipedia.org/wiki/React_(JavaScript_library)",
+                    "imageUrlList": [
+                        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png",
+                        "https://miro.medium.com/max/2484/1*CeuWv9fCjD1uTiTuKytnBQ.png",
+                        "https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg",
+                        "https://miro.medium.com/max/3840/0*oZLL-N4dGNlBe4Oh.png"
+                    ],
+                    "type": "Side result",
+                    "title": "React",
+                    "subTitle": "JavaScript library",
+                    "body": "React is an open-source front-end JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.",
+                    "stableRelease": "17.0.2 / 22 March 2021; 2 months ago",
+                    "initialRelease": "May 29, 2013; 7 years ago",
+                    "developer(s)": "Facebook and community",
+                    "originalAuthor(s)": "Jordan Walke",
+                    "writtenIn": "JavaScript",
+                    "platform": "Web platform"
+                }
+            ]
+        },
+        {
+            "id": "tenet",
+            "performance": "0.82 seconds",
+            "resultCount": 3,
+            "commonQuestions":[
+                {
+                    "body": "What Tenet means??"
+                },
+                {
+                    "body": "Is Tenet a failure?"
+                },
+                {
+                    "body": "Is Tenet hard to understand?"
+                },
+                {
+                    "body": "Is Tenet a sequel of Inception?"
+                }
+            ],
+            "results": [
+                {
+                    "url": "https://www.imdb.com/title/tt6723592/",
+                    "type": "Main",
+                    "title": "Tenet (2020) - IMDb",
+                    "body": "Tenet: Directed by Christopher Nolan. With Juhan Ulfsak, Jefferson Hall, Ivo Uukkivi, Andrew Howard. Armed with only one word, Tenet, and fighting for the ...",
+                    "visitCount": "You've visited this page many times. Last visit: 5/31/21"
+                },  
+                {
+                    "url": "https://en.wikipedia.org/wiki/Tenet_(film)",
+                    "type": "Secondary",
+                    "title": "Tenet (film) - Wikipedia",
+                    "body": "Tenet is a 2020 science fiction action film written and directed by Christopher Nolan, who produced it with Emma Thomas. A co-production between the United​ ...",
+                    "visitCount": "You've visited this page many times. Last visit: 5/31/21"
+                },
+                {
+                    "url": "https://www.tenetfilm.com/",
+                    "type": "Secondary",
+                    "title": "TENET",
+                    "body": "From Christopher Nolan, TENET - Own It Now On 4K Ultra HD And Digital And In Theaters Now.",
+                    "visitCount": "You've visited this page many times. Last visit: 5/31/21"
+                },
+                {
+                    "url": "https://en.wikipedia.org/wiki/React_(JavaScript_library)",
+                    "imageUrlList": [
+                        "https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+                        "https://upload.wikimedia.org/wikipedia/en/1/14/Tenet_movie_poster.jpg",
+                        "https://geekzpot.net/wp-content/uploads/2020/10/1598683220_Why-you-should-watch-Tenet-in-the-cinema-even-if.jpg",
+                        "https://variety.com/wp-content/uploads/2020/04/tenet-nolan.jpg",
+                        "https://variety.com/wp-content/uploads/2020/09/tenet4.jpg?w=1000",
+                        "https://www.enter.co/wp-content/uploads/2020/12/POSTER-MAIN.jpg"
+                    ],
+                    "type": "Side result",
+                    "title": "Tenet",
+                    "subTitle": "2020 ‧ Action/Thriller ‧ 2h 30m",
+                    "body": "When a few objects that can be manipulated and used as weapons in the future fall into the wrong hands, a CIA operative, known as the Protagonist, must save the world.",
+                    "stableRelease": "",
+                    "initialRelease": "August 13, 2020 (Russia)",
+                    "developer(s)": "",
+                    "originalAuthor(s)": "",
+                    "writtenIn": "",
+                    "platform": ""
+                }
+            ]
+        }
+    ]
+    
+}
